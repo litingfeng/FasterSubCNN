@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SubCNN: Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection
 
 Created by Yu Xiang at CVGL at Stanford University.
@@ -287,3 +288,7 @@ Please check the script [test_subcnn_models.sh](https://github.com/yuxng/SubCNN/
     cd $ROOT/fast-rcnn
     ./experiments/scripts/nthu_caffenet_rcnn_multiscale_6k8k.sh $GPU_ID
     ```
+=======
+# FasterSubCNN
+Cost Efficient Subcategory-aware CNN for Object Detection
+>>>>>>> 58aa5e3307218bd3569a09586d18e99d31f79cab
